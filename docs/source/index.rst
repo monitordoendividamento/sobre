@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 Bem-vindo ao monitor do endividamento dos brasileiros!
 =======
-Teste
->>>>>>> 3620fa9000e532ac9d8fd18ba29f7dc325a6c00d
-===================================
 
 O **monitor do endividamento dos brasileiros** surgiu como projeto final do *bootcamp* em análise de dados para mulheres da Escola Nacional de Administração Pública (ENAP).
 
